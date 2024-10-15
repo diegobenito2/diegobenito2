@@ -1,11 +1,19 @@
 
   
 
-<img align="center" width="200" src="https://github.com/diegobenito2/diegobenito2/blob/main/theclich.jpg" style="border-radius: 50;" />
- 
+
+ <p align="center" width="300">
+   <img align="center" width="200" src="https://github.com/diegobenito2/diegobenito2/blob/main/theclich.jpg"  />
+   <h3 align="center">¡Hey 👋! Soy Diego Benito 👨🏻‍💻</h3>
+</p>
+
+<div align="center">
+   
+   ![midudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegobenito2&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+   
+</div>
 
 <p>
-  # 👋 ¡Hola! Soy Diego Benito
 
 Desarrollador apasionado en formación, actualmente cursando **2º del ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (2ºDAM)** en **Villarrobledo**.
 
@@ -13,7 +21,7 @@ Desarrollador apasionado en formación, actualmente cursando **2º del ciclo for
 
 ## 🌟 Sobre mí
 
-Soy un entusiasta del desarrollo de software, con un enfoque especial en **Java** y **Kotlin**. Me gusta crear aplicaciones eficientes y escalables, y disfruto trabajando con bases de datos como **MySQL** y **PostgreSQL**.
+Soy un estudiante del Grado Superior de Desarrollo Aplicaciones Multiplataforma en el 2º año. 
 
 ---
 
