@@ -15,13 +15,13 @@
 
 <p>
 
-Desarrollador apasionado en formación, actualmente cursando **2º del ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (2ºDAM)** en **Villarrobledo**.
+
 
 ---
 
 ## 🌟 Sobre mí
 
-Soy un estudiante del Grado Superior de Desarrollo Aplicaciones Multiplataforma en el 2º año. 
+Soy un desarrollador apasionado en formación, actualmente cursando **2º del ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (2ºDAM)** en **Villarrobledo**.
 
 ---
 
