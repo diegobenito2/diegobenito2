@@ -1,7 +1,7 @@
 
   
 
-<img align="center" width="200" src="https://github.com/diegobenito2/diegobenito2/blob/main/theclich.jpg" />
+<img align="center" width="200" src="https://avatars.githubusercontent.com/u/182141380?v=4" />
  
 
 <p>
