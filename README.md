@@ -1,7 +1,8 @@
 
   
 
-
+<img align="center" width="200" src="https://github.com/diegobenito2/diegobenito2/blob/main/theclich.jpg" />
+ 
 
 <p>
   # 👋 ¡Hola! Soy Diego Benito
