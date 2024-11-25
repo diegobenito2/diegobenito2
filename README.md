@@ -42,10 +42,12 @@ Soy un desarrollador apasionado en formación, actualmente cursando **2º del ci
   - VMware
 
 ---
-## Logros
--ESO
--Grado Medio en Sistemas MicroInfomáticos y Redes
--**Diploma de honor en 1ºDAW**
+## 🎯 Logros Profesionales
+🏆 [Logro significativo 1]
+🌟 [Logro significativo 2]
+📚 Grado Medio en Sistemas MicroInfomáticos y Redes
+📚 **Diploma de honor 1ºDAW**
+---
 ## 📈 ¿Qué me motiva?
 
 Estoy emocionado por seguir aprendiendo y creciendo en el mundo de la programación. 
