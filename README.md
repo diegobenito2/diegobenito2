@@ -43,10 +43,10 @@ Soy un desarrollador apasionado en formación, actualmente cursando **2º del ci
 
 ---
 ## 🎯 Logros Profesionales
-🏆 [Logro significativo 1]
-🌟 [Logro significativo 2]
-📚 Grado Medio en Sistemas MicroInfomáticos y Redes
-📚 **Diploma de honor 1ºDAW**
+- 🏆 [Logro significativo 1]
+- 🌟 [Logro significativo 2]
+- 📚 Grado Medio en Sistemas MicroInfomáticos y Redes
+- 📚 **Diploma de honor 1ºDAW**
 ---
 ## 📈 ¿Qué me motiva?
 
