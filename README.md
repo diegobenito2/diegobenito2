@@ -30,6 +30,7 @@ Soy un desarrollador apasionado en formación, actualmente cursando **2º del ci
 - **Lenguajes de Programación:**
   - Java
   - Kotlin
+  - Jetpack Compose
  
 - ** Lenguajes Desarrollo Web
   - HTML
