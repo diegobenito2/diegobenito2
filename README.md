@@ -7,12 +7,6 @@
    <h3 align="center">¡Hey 👋! Soy Diego Benito 👨🏻‍💻</h3>
 </p>
 
-<div align="center">
-   
-   ![midudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegobenito2&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
-   
-</div>
-
 <p>
 
 
